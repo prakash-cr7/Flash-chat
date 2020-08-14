@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "611734312024",
+    "firebase_url": "https://kingslanding-5fd89.firebaseio.com",
+    "project_id": "kingslanding-5fd89",
+    "storage_bucket": "kingslanding-5fd89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611734312024:android:f0de3fcfefaa97fc5b262d",
+        "android_client_info": {
+          "package_name": "co.prakash.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611734312024-p6scfqaoqf0iq2kk351bkgqun18d5kua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrparOr5zwIClwAMNSiaq_YjwCCcpKTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611734312024-p6scfqaoqf0iq2kk351bkgqun18d5kua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
