@@ -1,5 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
+## Made this App while learning flutter from udemy course.
+- Download the apk from release section
 
 # Flash Chat ⚡️
 
